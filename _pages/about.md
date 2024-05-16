@@ -52,7 +52,7 @@ I have published some academic papers at the top international conference ACL, t
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
+- *2022.06 - 2026.06 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
