@@ -24,10 +24,10 @@ I have published some academic papers at the top international conference ACL, t
 
 
 # 🔥 News
-- *2024.05*: &nbsp;🎉🎉 One paper on Self-explaining Rationalization is accepted in ACL2024. 
-- *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on MIR2024.
-- *2022.10*: &nbsp; We shared our tutorial on winning the championship on [CCL 2022 Workshop](https://hfl-rc.github.io/cmrc2022/program/). Online. 
-- *2022.10*: &nbsp; We got the First Prize on the multi-choice MRC Track of CMRC2022 in the 21st China National Conference on Computational Linguistics.
+- *2024.05*: &nbsp; One paper on Self-explaining Rationalization is accepted in ACL 2024. 
+- *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on MIR 2024.
+- *2022.10*: &nbsp; We shared our tutorial on winning the championship on [CCL 2022 Workshop](https://hfl-rc.github.io/cmrc2022/program/).
+- *2022.10*: &nbsp; We got the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
 - *2022.05*: &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
 - *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in ACL2021. 
 
@@ -45,19 +45,21 @@ I have published some academic papers at the top international conference ACL, t
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- [A comprehensive Overview of CFN From a Commonsense Perspective | Machine Intelligence Research](https://link.springer.com/article/10.1007/s11633-023-1450-8), Ru Li, **Yunxiao Zhao**, et al. **MIR 2024**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - 2022.04 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
+  *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
+- *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
+
 
 # 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+- *2022.10*, We shared our tutorial on winning the championship on [CCL 2022 Workshop](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/)
+
 
 # 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
