@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my Phd degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0), A.P Zhiqiang Wang, and Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/). Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology (Excellent Lab Class of Big Data, Top %10). 
+I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0), A.P Zhiqiang Wang, and Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/). Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology (Excellent Lab Class of Big Data, Top %10). 
 
 My research interests include rationalization, reinforcement learning and language models. Also I am interested in framenet knowledge in the linguistics. 
 I have published some academic papers at the top international conference ACL, the Journal of Chinese Information Processing, and the journal Machine Intelligence Research. Additionally, I participated in natural language processing evaluations related to interpretability and won the national first prize (champion).
