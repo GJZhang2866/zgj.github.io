@@ -29,7 +29,7 @@ I have published some academic papers at the top international conference ACL, t
 - *2022.10*: &nbsp; We shared our tutorial on winning the championship on [CCL 2022 Workshop](https://hfl-rc.github.io/cmrc2022/program/).
 - *2022.10*: &nbsp; We got the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
 - *2022.05*: &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
-- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in ACL2021. 
+- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in ACL 2021. 
 
 # 📝 Publications 
 
