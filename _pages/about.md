@@ -17,26 +17,31 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my Phd degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0), A.P Zhiqiang Wang, and Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/). Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology (Excellent Lab Class of Big Data, Top %10). My research interests include explainable NLP (XNLP), machine reading comprehension (MRC), large language models (LLMs), and framenet.
+I am pursuing my Phd degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0), A.P Zhiqiang Wang, and Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/). Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology (Excellent Lab Class of Big Data, Top %10). 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests include rationalization, reinforcement learning and language models. Also I am interested in framenet knowledge in the linguistics. 
+I have published some academic papers at the top international conference ACL, the Journal of Chinese Information Processing, and the journal Machine Intelligence Research. Additionally, I participated in natural language processing evaluations related to interpretability and won the national first prize (champion).
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.05*: &nbsp;🎉🎉 One paper on Self-explaining Rationalization is accepted in ACL2024. 
+- *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on MIR2024.
+- *2022.10*: &nbsp; We shared our tutorial on winning the championship on [CCL 2022 Workshop](https://hfl-rc.github.io/cmrc2022/program/). Online. 
+- *2022.10*: &nbsp; We got the First Prize on the multi-choice MRC Track of CMRC2022 in the 21st China National Conference on Computational Linguistics.
+- *2022.05*: &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
+- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in ACL2021. 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/AGR.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Yunxiao Zhao**, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- We propose a novel approach AGR (Agent-Guided Rationalization), guiding the next action of the model based on its current training state. 
 </div>
 </div>
 
