@@ -45,7 +45,7 @@ I have published some academic papers at the top international conference ACL, t
 </div>
 </div>
 
-- [A comprehensive Overview of CFN From a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8), Machine Intelligence Research. Ru Li, **Yunxiao Zhao**, et al. **MIR 2024**
+- [A comprehensive Overview of CFN From a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8). Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, et al. **MIR 2024**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -53,7 +53,7 @@ I have published some academic papers at the top international conference ACL, t
 
 # 📖 Educations
 - *2019.06 - 2022.04 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
-  *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
+- *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
 
