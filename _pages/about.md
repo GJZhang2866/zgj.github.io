@@ -48,7 +48,7 @@ I have published some academic papers at the top international conference ACL, t
 - [A comprehensive Overview of CFN From a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8). Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, et al. **MIR 2024**
 
 # 🎖 Honors and Awards
-- *2022.10* CCL 2022 Explainable Machine Reading Comprehension - Choice Track, champion. 
+- *2022.10* CCL 2022 Explainable Machine Reading Comprehension - Choice Track, Champion. 
 
 # 📖 Educations
 - *2022.06 - 2026.06 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
