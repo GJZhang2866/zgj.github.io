@@ -57,7 +57,7 @@ I have published some academic papers at the top international conference ACL, t
 
 
 # 💬 Invited Talks
-- *2022.10*, We shared our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/)
+- *2022.10*, We shared our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/). \| [\[slide\]](https://yunxiaomr.github.io/)
 
 
 # 💻 Internships
