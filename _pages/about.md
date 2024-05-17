@@ -24,12 +24,12 @@ I have published some academic papers at the top international conference ACL, t
 
 
 # 🔥 News
-- *2024.05*: &nbsp; One paper on Self-explaining Rationalization is accepted in ACL 2024. 
-- *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on MIR 2024.
+- *2024.05*: &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL 2024](https://2024.aclweb.org/). 
+- *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on [MIR 2024](https://www.mi-research.net/).
 - *2022.10*: &nbsp; We shared our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/).
 - *2022.10*: &nbsp; We got the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
 - *2022.05*: &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
-- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in ACL 2021. 
+- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [ACL 2021](https://2021.aclweb.org/). 
 
 # 📝 Publications 
 
