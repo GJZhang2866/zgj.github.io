@@ -71,9 +71,4 @@ I have published some academic papers at the top international conference ACL, t
 
 
 
-<span id="busuanzi_container_site_pv" style='display:none'>
-    Total visits to the site: <span id="busuanzi_value_site_pv"></span>
-</span>
-
-<script async src="//dn-lbstatics.qbox.me/busuanzi/2.3/busuanzi.pure.mini.js">
-</script>
+[![tree's GitHub stats](https://github-readme-stats.vercel.app/api?username=littleTreeme& hide=contribs,prs&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
