@@ -21,48 +21,49 @@ I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.c
 
 My research interests include Information Extraction, Knowledge Graphs and Language Models.
 I have published some academic papers at the top international conference ACL, ICONLP, IJCNN, Journal of Peking University and Journal of Chinese Information Processing
-. Additionally, I participated in natural language processing evaluations related to interpretability and won the national seconde prize twice.
+. Additionally, I participated in natural language processing evaluations related to MRC and won the national seconde prize twice.
 
 
 # 🔥 News
 - *2024.05*: &nbsp; One paper on Event Extraction is accepted in [ACL 2024](https://2024.aclweb.org/) [code](https://github.com/GJZhang2866/HMPEAE). 
-- *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on [MIR 2024](https://www.mi-research.net/).
-- *2022.10*: &nbsp; We share our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/).
-- *2022.10*: &nbsp; We get the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
-- *2022.05*: &nbsp; Two Journal papers on Machine Reading Comprehension are accepted to the Journal of Chinese Information Processing.
-- *2021.05*: &nbsp; One paper on Explainable Evaluation is accepted in [ACL 2021](https://2021.aclweb.org/). 
+- *2024.04*: &nbsp; One paper on Graph Representation Learning is accepted on [IJCNN 2024](https://www.mi-research.net/).
+- *2023.10*: &nbsp; We shared our Outstanding Paper report on [CCKS 2023](https://sigkg.cn/ccks2023/program/).
+- *2023.08*  &nbsp; Two papers on [Text Summarization](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_16) and [Relation Extraction](https://link.springer.com/chapter/10.1007/978-981-99-8148-9_17) is accepted on [ICONLP 2023]
+- *2023.08*: &nbsp; One Journal papers on Named Entity Recognition are accepted to the Journal of Chinese Information Processing.
+- *2023.08*: &nbsp; One Journal papers on Named Entity Recognition are accepted to the Journal of Peking University.
+
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/AGR.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/HPN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reinforced Causal Agent Guided Self-explaining Rationalization](https://yunxiaomr.github.io/)
+[Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction](https://yunxiaomr.github.io/)
 
-**Yunxiao Zhao**, Zhiqiang Wang, Xiaoli Li, Jiye Liang, Ru Li.
+**Guangjun Zhang**, Hu Zhang, Yujie Wang, Ru Li, Hongye Tan and Jiye Liang.
 
 [**Project**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a novel approach AGR (Agent-Guided Rationalization), guiding the next action of the model based on its current training state. 
+- We propose a novel approach HMPEAE, guiding the model in learning argument representations. 
 </div>
 </div>
 
-- [A comprehensive Overview of CFN From a Commonsense Perspective](https://link.springer.com/article/10.1007/s11633-023-1450-8). Ru Li, **Yunxiao Zhao**, Zhiqiang Wang, Xuefeng Su, et al. **MIR 2024**
+
 
 # 🎖 Honors and Awards
-- *2023.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
-- *2022.10* CCL 2022 Explainable Machine Reading Comprehension - Choice Track, Champion.
-- *2022.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
-- *2021.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
-- *2021.05* The Outstanding Graduate Student. 
+- *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
+- *2023.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
+- *2022.06* The Third Class Award Scholarship of the Graduate School, Shanxi University, in 2022.
+- *2021.10* CAIL 2021 Machine Reading Comprehension, Second Prize.
+- *2021.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2021.
+- *2020.10* CAIL 2020 Machine Reading Comprehension, Third  Prize.
+
 
 # 📖 Educations
-- *2022.09 - 2026.06 (now)*, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
+- *2022.09 - *, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
 
-# 💬 Invited Talks
-- *2022.10*, We shared our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/). \| [\[video\]](https://yunxiaomr.github.io/) \| [\[slide\]](https://yunxiaomr.github.io/)
 
 
 
