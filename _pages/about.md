@@ -17,14 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Ru Li](https://www.researchgate.net/scientific-contributions/Ru-Li-14829601?_sg=VXNUDhg-exV6GUMTTzZ3UgEBy0zZa6hRgTd8V_oo4GZ0doGm9wp14Vo_rBLhkms1qfdWlJrEIZquUi0) and A.P Zhiqiang Wang. I am also supervised Prof. [Xiaoli Li](https://personal.ntu.edu.sg/xlli/), who is affiliated with the Institute for Infocomm Research at A*Star, Singapore. Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology (Excellent Lab Class of Big Data, Top %10). 
+I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.cn/), supervised by Prof. [Hu Zhang](https://cs.sxu.edu.cn/faculty/professor/3367/index.htm). Before that, I received a B.S. degree from Shanxi University in 2020, majoring in computer science and technology. 
 
-My research interests include rationalization, reinforcement learning and language models. Also I am interested in framenet knowledge in the linguistics. 
-I have published some academic papers at the top international conference ACL, the Journal of Chinese Information Processing, and the journal Machine Intelligence Research. Additionally, I participated in natural language processing evaluations related to interpretability and won the national first prize (champion).
+My research interests include Information Extraction, Knowledge Graphs and Language Models.
+I have published some academic papers at the top international conference ACL, ICONLP, IJCNN, Journal of Peking University and Journal of Chinese Information Processing
+. Additionally, I participated in natural language processing evaluations related to interpretability and won the national seconde prize twice.
 
 
 # 🔥 News
-- *2024.05*: &nbsp; One paper on Self-explaining Rationalization is accepted in [ACL 2024](https://2024.aclweb.org/). 
+- *2024.05*: &nbsp; One paper on Event Extraction is accepted in [ACL 2024](https://2024.aclweb.org/) [code] (https://github.com/GJZhang2866/HMPEAE). 
 - *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on [MIR 2024](https://www.mi-research.net/).
 - *2022.10*: &nbsp; We share our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/).
 - *2022.10*: &nbsp; We get the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
