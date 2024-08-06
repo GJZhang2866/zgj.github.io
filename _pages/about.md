@@ -25,7 +25,7 @@ I have published some academic papers at the top international conference ACL, I
 
 
 # 🔥 News
-- *2024.05*: &nbsp; One paper on Event Extraction is accepted in [ACL 2024](https://2024.aclweb.org/) [code] (https://github.com/GJZhang2866/HMPEAE). 
+- *2024.05*: &nbsp; One paper on Event Extraction is accepted in [ACL 2024](https://2024.aclweb.org/) [code](https://github.com/GJZhang2866/HMPEAE). 
 - *2023.04*: &nbsp; One Journal paper on FrameNet Knowledge is accepted on [MIR 2024](https://www.mi-research.net/).
 - *2022.10*: &nbsp; We share our tutorial on winning the championship on [CCL 2022](https://hfl-rc.github.io/cmrc2022/program/).
 - *2022.10*: &nbsp; We get the First Prize on CMRC2022 in the 21st China National Conference on Computational Linguistics.
