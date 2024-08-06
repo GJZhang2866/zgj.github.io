@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yunxiao Zhao"
-description              : "I am now a second-year PhD student (2022-), supervised by Prof. Ru Li."
-repository               : "yunxiaomr/yunxiaomr.github.io"
+title                    : "Guangjun Zhang"
+description              : "I am now a second-year PhD student (2022-), supervised by Prof. Hu Zhang."
+repository               : "/GJZhang2866/zgj.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,8 +21,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Yunxiao Zhao"
-  avatar           : "images/yunxiao.png"
+  name             : "Guangjun Z  HANG"
+  avatar           : "images/ZGJ.jpg"
   bio              : "Shanxi University"
   location         : "Taiyuan, China"
   employer         :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "yunxiaomr"# e.g., "github username"
+  github           : "GJZhang2866"# e.g., "github username"
   google_plus      :
   keybase          :
   instagram        :
