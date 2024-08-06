@@ -38,11 +38,11 @@ I have published some academic papers at the top international conference ACL, I
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/HPN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction](https://yunxiaomr.github.io/)
+[Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction](https://github.com/GJZhang2866/HMPEAE)
 
 **Guangjun Zhang**, Hu Zhang, Yujie Wang, Ru Li, Hongye Tan and Jiye Liang.
 
-[**Project**](https://yunxiaomr.github.io/) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/GJZhang2866/HMPEAE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a novel approach HMPEAE, guiding the model in learning argument representations. 
 </div>
 </div>
