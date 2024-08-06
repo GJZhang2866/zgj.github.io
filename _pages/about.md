@@ -64,9 +64,3 @@ I have published some academic papers at the top international conference ACL, I
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
 
-
-
-
-
-# 💻 Internships
-- *2019.12 - 2020.06*, [Taiyuan](https://yunxiaomr.github.io), China.
