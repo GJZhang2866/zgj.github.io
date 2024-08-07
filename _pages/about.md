@@ -21,7 +21,7 @@ I am pursuing my PhD degree (2022~) at [Shanxi University](https://www.sxu.edu.c
 
 My research interests include Information Extraction, Knowledge Graphs and Language Models.
 I have published some academic papers at the top international conference ACL, ICONLP, IJCNN, Journal of Peking University and Journal of Chinese Information Processing
-. Additionally, I participated in natural language processing evaluations related to MRC and won the national seconde prize twice.
+. Additionally, I participated in natural language processing evaluations related to MRC and won the national seconde prize(CAIL 2021) and  the national third prize(CAIL 2020).
 
 
 # 🔥 News
