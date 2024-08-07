@@ -25,7 +25,7 @@ I have published some academic papers at the top international conference ACL, I
 
 
 # 🔥 News
-- *2024.07*: &nbsp; 😥😭 One paper on Visual Question Answering is rejected by MM
+- *2024.07*: &nbsp; 😥😭 One paper on Visual Question Answering is rejected by MM.
 - *2024.05*: &nbsp; 🎉One paper on Event Extraction is accepted in [ACL 2024 Main Coference](https://2024.aclweb.org/). [\[Code\]](https://github.com/GJZhang2866/HMPEAE).
 - *2024.04*: &nbsp; 🎉One paper on Graph Representation Learning is accepted on [IJCNN 2024](https://www.mi-research.net/).
 - *2023.10*: &nbsp; 🎉We shared our Outstanding Paper report on [CCKS 2023](https://sigkg.cn/ccks2023/program/).
