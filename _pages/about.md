@@ -66,6 +66,6 @@ I have published some academic papers at the top international conference ACL, I
 # ❤️ Hobbies
 - 🏃🏃‍ Running.
 - 🍔🍔 McDonald's(🎵麦当劳汉堡，好~好~好~；麦当劳薯条，条~条~条~🎵)
-- 🎮🎮 Video Games.(PS5: Horizon Forbidden West🦖, The Last of Us⛳, Resident Evil💀,Final Fantasy7☁, Yakuza...🐎; Switch:The Legend of Zelda:Breath of the Wild & Tears of the Kingdom🧝‍, Kirby🍡...)
+- 🎮🎮 Video Games.(PS5: Horizon Forbidden West🦖, The Last of Us⛳, Resident Evil💀,Final Fantasy7☁, Yakuza🐎...; Switch:The Legend of Zelda:Breath of the Wild & Tears of the Kingdom🧝‍, Kirby🍡...)
 - 🥶🈵 Animes.
 
