@@ -64,8 +64,8 @@ I have published some academic papers at the top international conference ACL, I
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
 # ❤️ Hobbies
-- 🏃🏃🏃‍ Running.
-- 🍔🍔🍔 McDonald's(麦门永存)
-- 🎮🎮🎮 Video Games.
+- 🏃🏃‍ Running.
+- 🍔🍔 McDonald's(🎵麦当劳汉堡，好~好~好~；麦当劳薯条，条~条~条~🎵)
+- 🎮🎮 Video Games.(PS5: Horizon Forbidden West, The Last of Us, Resident Evil,Final Fantasy, Yakuza...; Switch:The Legend of Zelda:Breath of the Wild & Tears of the Kingdom, Kirby...)
 - 🥶🈵 Animes.
 
