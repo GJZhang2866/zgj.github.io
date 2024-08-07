@@ -34,7 +34,7 @@ I have published some academic papers at the top international conference ACL, I
 - *2023.08*: &nbsp; 🎉One Journal papers on Named Entity Recognition are accepted to the Journal of Peking University.
 
 
-# 📝 Publications 
+# 📝 Main Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/HPN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
