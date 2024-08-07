@@ -63,7 +63,7 @@ I have published some academic papers at the top international conference ACL, I
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
-❤️ Hobbies
+# ❤️ Hobbies
 - 🏃🏃🏃‍ Running.
 - 🍔🍔🍔 McDonald's(麦门永存)
 - 🎮🎮🎮 Video Games.
