@@ -49,7 +49,6 @@ I have published some academic papers at the top international conference ACL, I
 </div>
 
 
-
 # 🎖 Honors and Awards
 - *2024.06* The First Class Award Scholarship of the Graduate School, Shanxi University, in 2024.
 - *2023.06* The Second Class Award Scholarship of the Graduate School, Shanxi University, in 2023.
@@ -64,4 +63,9 @@ I have published some academic papers at the top international conference ACL, I
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
+❤️ Hobbies
+- 🏃🏃🏃‍ Running.
+- 🍔🍔🍔 McDonald's(麦门永存)
+- 🎮🎮🎮 Video Games.
+- 🥶🈵 Animes.
 
