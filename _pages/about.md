@@ -67,6 +67,10 @@ I have published some academic papers at the top international conference ACL, I
 - 🏃🏃‍ Running.
 - 🍔🍔 McDonald's(🎵麦当劳汉堡，好~好~好~；麦当劳薯条，条~条~条~🎵)
 - 💤💤 Sleeping.
-- 🎮🎮 Video Games.(PS5: Horizon Forbidden West🦖, The Last of Us⛳, Resident Evil💀, Final Fantasy7:Re & RB☁️, Yakuza🐎...; Switch: The Legend of Zelda:Breath of the Wild & Tears of the Kingdom🧝‍, Kirby🍡, ...)
-- 🥶🈵 Animes.(Season 2024.07:々ボソッとロシア語でデレる隣のアーリャさん,推しの子2, 負けヒロインが多すぎる！)
+- 🎮🎮 Video Games.
+
+  (PS5: Horizon Forbidden West🦖, The Last of Us⛳, Resident Evil💀, Final Fantasy7:Re & RB☁️, Yakuza🐎...; Switch: The Legend of Zelda:Breath of the Wild & Tears of the Kingdom🧝‍, Kirby🍡, ...)
+- 🥶🈵 Animes.
+
+(Season 2024.07:々ボソッとロシア語でデレる隣のアーリャさん,推しの子2, 負けヒロインが多すぎる！)
 
