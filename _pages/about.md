@@ -72,5 +72,5 @@ I have published some academic papers at the top international conference ACL, I
   (PS5: Horizon Forbidden West🦖, The Last of Us⛳, Resident Evil💀, Final Fantasy7:Re & RB☁️, Yakuza🐎...; Switch: The Legend of Zelda:Breath of the Wild & Tears of the Kingdom🧝‍, Kirby🍡, ...)
 - 🥶🈵 Animes.
 
-(Season 2024.07:々ボソッとロシア語でデレる隣のアーリャさん,推しの子2, 負けヒロインが多すぎる！)
+  (Season 2024.07:々ボソッとロシア語でデレる隣のアーリャさん,推しの子2, 負けヒロインが多すぎる！)
 
