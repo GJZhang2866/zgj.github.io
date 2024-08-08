@@ -73,4 +73,5 @@ I have published some academic papers at the top international conference ACL, I
 - 🥶🈵 Animes.
 
   (Season 2024.07:々ボソッとロシア語でデレる隣のアーリャさん,推しの子2, 負けヒロインが多すぎる！)
+  (非二次元，当乐子看)
 
