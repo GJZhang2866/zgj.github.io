@@ -63,15 +63,5 @@ I have published some academic papers at the top international conferences like 
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
 
-# ❤️ Hobbies
-- 🏃🏃‍ Running.
-- 🍔🍔 McDonald's(🎵麦当劳汉堡，好~好~好~；麦当劳薯条，条~条~条~🎵)
-- 💤💤 Sleeping.
-- 🎮🎮 Video Games.
 
-  (PS5: Horizon Forbidden West🦖, The Last of Us⛳, Resident Evil💀, Final Fantasy7:Re & RB☁️, Yakuza🐎...; Switch: The Legend of Zelda:Breath of the Wild & Tears of the Kingdom🧝‍, Kirby🍡, ...)
-- 🥶🈵 Animes.
-
-  (Season 2024.07:々ボソッとロシア語でデレる隣のアーリャさん,推しの子2, 負けヒロインが多すぎる！)
-  (别误会😅，非二次元😅，当乐子看😅)
 
