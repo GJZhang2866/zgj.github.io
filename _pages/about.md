@@ -25,7 +25,7 @@ I have published some academic papers at the top international conferences like 
 
 
 # 🔥 News
-- *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by Coling 2025.
+- *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by COLING 2025.
 - *2024.07*: &nbsp; 😥😭 One paper on Visual Question Answering is rejected by MM.
 - *2024.05*: &nbsp; 🎉One paper on Event Extraction is accepted in [ACL 2024 Main Coference](https://2024.aclweb.org/). [\[Code\]](https://github.com/GJZhang2866/HMPEAE).
 - *2024.04*: &nbsp; 🎉One paper on Graph Representation Learning is accepted in IJCNN 2024.
@@ -36,15 +36,13 @@ I have published some academic papers at the top international conferences like 
 
 
 # 📝 Main Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/HPN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/HPN.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction](https://github.com/GJZhang2866/HMPEAE/blob/main/paper.pdf)
 
-**Guangjun Zhang**, Hu Zhang, Yujie Wang, Ru Li, Hongye Tan and Jiye Liang.
-
-[**Project**](https://github.com/GJZhang2866/HMPEAE) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- We propose a novel approach HMPEAE, guiding the model in learning argument representations. 
+Su Ya,Hu Zhang, **Guangjun Zhang**.
+- We propose the ECI method enhanced by LLM Knowledge and Concept-Level Event Relations.
 </div>
 </div>
 
