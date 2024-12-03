@@ -36,10 +36,10 @@ I have published some academic papers at the top international conferences like 
 
 
 # 📝 Main Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/HPN.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LCKER.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Hyperspherical Multi-Prototype with Optimal Transport for Event Argument Extraction](https://github.com/GJZhang2866/HMPEAE/blob/main/paper.pdf)
+[Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations]
 
 Su Ya,Hu Zhang, **Guangjun Zhang**.
 - We propose the ECI method enhanced by LLM Knowledge and Concept-Level Event Relations.
