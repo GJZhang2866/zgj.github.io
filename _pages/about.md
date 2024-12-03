@@ -37,7 +37,7 @@ I have published some academic papers at the top international conferences like 
 
 
 # 📝 Main Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LCKER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">COLING 2025</div><img src='images/LKCER' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations]
