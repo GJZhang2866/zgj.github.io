@@ -25,6 +25,7 @@ I have published some academic papers at the top international conferences like 
 
 
 # 🔥 News
+- *2024.07*: &nbsp; 😥😭 One paper on Visual Question Answering is rejected by AAAI 2025.
 - *2024.11*: &nbsp; 🎉 One paper on Event Causality Identification is accepted by COLING 2025.
 - *2024.08*: &nbsp; 🎉 One paper on Event Extraction is accepted by TALLIP.
 - *2024.07*: &nbsp; 😥😭 One paper on Visual Question Answering is rejected by MM.
@@ -42,7 +43,7 @@ I have published some academic papers at the top international conferences like 
 
 Enhancing Event Causality Identification with LLM Knowledge and Concept-Level Event Relations
 
-Su Ya,Hu Zhang, **Guangjun Zhang**.
+Su Ya,Hu Zhang, **Guangjun Zhang**, Yujie Wang, Yu Fan, Ru Li, Yuanlong Wang
 - We propose the ECI method enhanced by LLM Knowledge and Concept-Level Event Relations.
 </div>
 </div>
