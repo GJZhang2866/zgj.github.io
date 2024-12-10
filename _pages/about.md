@@ -74,6 +74,7 @@ Su Ya,Hu Zhang, **Guangjun Zhang**, Yujie Wang, Yu Fan, Ru Li, Yuanlong Wang
 - *2022.09 - *, School of Computer and Information Technology, Shanxi University. Ph.D. Student.
 - *2020.09 - 2022.06*, School of Computer and Information Technology, Shanxi University. Master Student.
 - *2016.09 - 2020.06*, School of Computer and Information Technology, Shanxi University. Undergraduate.
+- *2013.09 - 2016.06*, No.2 Middle School of Hengshui. High school student.
 
 
 
